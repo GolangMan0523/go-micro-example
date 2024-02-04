@@ -49,3 +49,5 @@ func main() {
 		log.Fatal(err)
 	}
 }
+
+// It is changed by GoMan
